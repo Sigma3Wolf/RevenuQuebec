@@ -1,4 +1,4 @@
-<img src="/images/devoir.png" align="right" height="290"/>
+<img src="/images/devoir.png" align="right" height="512"/>
 
 # Devoir de classe
  REVENU-QUEBEC
